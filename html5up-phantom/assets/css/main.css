@@ -2131,6 +2131,7 @@ ul.icons {
 		font-size: 0.9em;
 		font-weight: 900;
 		margin: 0 0 1em 0;
+		color: #555555;
 	}
 
 	input[type="text"],
@@ -3212,11 +3213,12 @@ ul.icons {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: #666666;
 			}
 
 				#footer > .inner .copyright a {
-					color: inherit;
+					color: #555555;
+border-bottom-color: #888888;
 				}
 
 				#footer > .inner .copyright li {
